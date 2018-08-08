@@ -1,0 +1,27 @@
+sample-id,absolute-filepath,direction
+# Lines starting with '#' are ignored and can be used to create
+# "comments" or even "comment out" entries
+R1h,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R1_1_paired.fastq,forward
+R1h,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R1_2_paired.fastq,reverse
+R1c,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R1c_1_paired.fastq,forward
+R1c,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R1c_2_paired.fastq,reverse
+R1d,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R1d_1_paired.fastq,forward
+R1d,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R1d_2_paired.fastq,reverse
+R1g,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R1g_1_paired.fastq,forward
+R1g,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R1g_2_paired.fastq,reverse
+R4h,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R4_1_paired.fastq,forward
+R4h,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R4_2_paired.fastq,reverse
+R4a,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R4a_1_paired.fastq,forward
+R4a,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R4a_2_paired.fastq,reverse
+R4d,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R4d_1_paired.fastq,forward
+R4d,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R4d_2_paired.fastq,reverse
+R4e,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R4e_1_paired.fastq,forward
+R4e,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R4e_2_paired.fastq,reverse
+R6h,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R6_1_paired.fastq,forward
+R6h,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R6_2_paired.fastq,reverse
+R6a,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R6a_1_paired.fastq,forward
+R6a,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R6a_2_paired.fastq,reverse
+R6c,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R6c_1_paired.fastq,forward
+R6c,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R6c_2_paired.fastq,reverse
+R6d,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R6d_1_paired.fastq,forward
+R6d,/scratch/group/ykjolab/jochumHMMMEqiime/trimmed_reads/R6d_2_paired.fastq,reverse

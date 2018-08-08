@@ -1,0 +1,14 @@
+#SampleID	BarcodeSequence	LinkerPrimerSequence	SampleSite	Year	Month	Day	Subject	Round	Start Date	Experiment Stop Date	DaysNo Water	Description
+#q2types	categorical	categorical	categorical	categorical	numeric	numeric	categorical	numeric 	categorical	categorical	numeric	categorical
+R1h	CCAGTTCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-1	1	9-Dec-16	22-Dec-16	12	Round 1 Subsample A
+R1c	ACGTATCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-1	1	9-Dec-16	22-Dec-16	12	Round 1 Subsample B
+R1d	ACGTATCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-1	1	9-Dec-16	22-Dec-16	12	Round 1 Subsample C
+R1g	ACGTATCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-1	1	5-Jan-17	19-Jan-17	12	Round 1 Subsample D
+R4h	CCAGTTCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-4	4	5-Jan-17	19-Jan-17	13	Round 2 Subsample A
+R4a	ACGTATCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-4	4	5-Jan-17	19-Jan-17	13	Round 2 Subsample B
+R4d	ACGTATCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-4	4	5-Jan-17	19-Jan-17	13	Round 2 Subsample C
+R4e	ACGTATCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-4	4	15-Feb-17	19-Jan-17	13	Round 2 Subsample D
+R6h	CCAGTTCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-6	6	15-Feb-17	3-Mar-17	15	Round 3 Subsample A
+R6a	ACGTATCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-6	6	15-Feb-17	3-Mar-17	15	Round 3 Subsample B
+R6c	ACGTATCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-6	6	15-Feb-17	3-Mar-17	15	Round 3 Subsample C
+R6d	ACGTATCA	GTGCCAGCMGCCGCGGTAA	Rhizosphere	2016	5	5	Round-6	6	15-Feb-17	3-Mar-17	15	Round 3 Subsample D
